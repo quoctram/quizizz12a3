@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+.dautrang {
+  color: aqua;
+  font-size: 14px;
+  text-align: center;
+}
+.a1:link {
+  color: salmon;
+}
+.a1:visited {
+  color: greenyellow;
+}
+.noidung {
+  text-align: center;
+}
+.ketthuc {
+  color: aqua;
+  font-size: 8px;
+  text-align: center;
+}

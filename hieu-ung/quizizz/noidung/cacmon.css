@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+.phan1 {
+  color: aqua;
+  text-align: center;
+  font-size: 18px;
+}
+.a1:link {
+  color: salmon;
+}
+.a1:visited {
+  color: greenyellow;
+}
+.phan2 {
+  text-align: center;
+}

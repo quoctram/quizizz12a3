@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+}
+.chaomung {
+  color: aqua;
+  text-align: center;
+  font-size: 14px;
+}
+.a1:link {
+  color: salmon;
+}
+.a1:visited {
+  color: greenyellow;
+}
+.thongbao {
+  color: pink;
+  text-align: center;
+  font-size: 10px;
+}
+.tieude {
+  text-align: center;
+}
+.lienhe {
+  font-size: 10px;
+  text-align: center;
+}
