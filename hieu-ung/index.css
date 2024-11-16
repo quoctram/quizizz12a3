@@ -24,3 +24,11 @@ body {
   font-size: 10px;
   text-align: center;
 }
+#a1 {
+  color: white;
+  height: 100%; /* Đảm bảo phần thân trang có chiều cao đầy đủ */
+  margin: 0; /* Xóa bỏ margin mặc định */
+  display: flex;
+  justify-content: center; /* Căn giữa theo chiều ngang */
+  align-items: center; /* Căn giữa theo chiều dọc */
+}
