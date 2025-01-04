@@ -1,5 +1,6 @@
 body {
-  background-image: url(../tai-nguyen/img/bacground/bgc.jpg);
+  /* background-image: url(../tai-nguyen/img/bacground/bgc.jpg); */
+  background-color: black;
 }
 .chaomung {
   color: aqua;

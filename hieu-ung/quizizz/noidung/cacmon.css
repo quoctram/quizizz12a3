@@ -1,5 +1,6 @@
 body {
-  background-image: url(../../../tai-nguyen/img/bacground/bgc.jpg);
+  /* background-image: url(../../../tai-nguyen/img/bacground/bgc.jpg); */
+  background-color: black;
 }
 .phan1 {
   color: aqua;
@@ -17,3 +18,7 @@ body {
 }
 #a1{
   font-size: 23px; font-family: initial;
+}
+.a1{
+  color: aqua;
+}
