@@ -35,7 +35,7 @@ body {
   align-items: center; /* Căn giữa theo chiều dọc */
 }
 .hieuungbang {
-  box-shadow: 0 10px 50px rgba(255, 140, 0);
+  box-shadow: 0 10px 50px rgb(0, 8, 255);
 }
 .hieuungbang1 {
   box-shadow: 0 3px 15px rgba(0, 255, 255);
