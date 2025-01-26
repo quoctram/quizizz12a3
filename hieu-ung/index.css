@@ -40,9 +40,27 @@ body {
 .hieuungbang1 {
   box-shadow: 0 3px 15px rgba(0, 255, 255);
 }
-.hieuungbang2{
+.hieuungbang2 {
   box-shadow: 0 1px 6px rgba(3, 252, 90);
 }
-.hieuungbang3{
+.hieuungbang3 {
   box-shadow: 0 1px 10px rgba(255, 0, 0);
+}
+#mahoa {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  margin: 0 auto;
+  font-size: 40px;
+  text-align: center;
+  background-color: black;
+}
+#mahoa1:link {
+  color: black;
+}
+#mahoa1:visited {
+  color: black;
+}
+#mahoa1:active {
+  color: black;
 }
